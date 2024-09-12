@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxno\\source\\repos\\SistemaEstacionamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9660FBC-0D61-4C68-9107-D89540ACD323}|SistemaEstacionamento.csproj|c:\\users\\maxno\\source\\repos\\sistemaestacionamento\\estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9660FBC-0D61-4C68-9107-D89540ACD323}|SistemaEstacionamento.csproj|solutionrelative:estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estacionamento.cs",
+              "DocumentMoniker": "C:\\Users\\maxno\\source\\repos\\SistemaEstacionamento\\Estacionamento.cs",
+              "RelativeDocumentMoniker": "Estacionamento.cs",
+              "ToolTip": "C:\\Users\\maxno\\source\\repos\\SistemaEstacionamento\\Estacionamento.cs",
+              "RelativeToolTip": "Estacionamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:22:50.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
